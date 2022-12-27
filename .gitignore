@@ -3,3 +3,4 @@
 .idea
 hs_err_pid8112.log
 replay_pid8112.log
+application-oauth.properties
